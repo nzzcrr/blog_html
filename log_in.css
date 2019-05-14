@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+  background-color: cornsilk;
+}
+.content {
+    float:left;
+    width:70%;
+    height:auto;
+    padding: 25px 100px; 
+    border:1px gold solid;
+    text-align: left;
+}
+.sidepart{
+    float:right;
+    width:30%;
+    height:100%;
+    padding:25px 75px;
+    /* border:2px  #B5B5B5 solid; */
+    text-align: left;
+
+}
+
+.footer{
+    background-color:#B5B5B5;
+    clear:both;
+    text-align:center;
+    
+}
