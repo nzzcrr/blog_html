@@ -9,6 +9,7 @@ body {
     padding: 25px 100px; 
     border:1px gold solid;
     text-align: left;
+    display:inline-block;
 }
 .sidepart{
     float:right;
@@ -17,6 +18,7 @@ body {
     padding:25px 75px;
     /* border:2px  #B5B5B5 solid; */
     text-align: left;
+    display: inline-block;
 
 }
 
